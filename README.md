@@ -1,5 +1,8 @@
 
-Camera detection app. Used external API for image detection.
+## 📷 Camera objects detection app
+
+Used periodic image capturing to make possible to run on the web  
+(image streaming doesnt not work on web platform).
 
 ### 📦 Get deps 
 ```bash
